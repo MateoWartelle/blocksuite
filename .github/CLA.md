@@ -121,6 +121,7 @@ Example:
 - Yuntian Sun, @ununian, 2024/02/20
 - wumo, @wumo1016, 2024/2/27
 - Yuan Congzhou, @congzhou09, 2024/03/01
+- Wartelle, Mateo @mateowartelle, 2024/09/10
 - RhonJoe, @JunIce, 2024/03/04
 - Lebedev Konstantin, @RubaXa, 2024/04/04
 - GambleMeow, @GambleMeow, 2024/04/10
